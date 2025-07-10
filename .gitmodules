@@ -1,0 +1,3 @@
+[submodule "my-submodule-test2"]
+	path = my-submodule-test2
+	url = git@github.com:/f18m/cmonitor
